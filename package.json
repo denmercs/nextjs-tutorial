@@ -1,30 +1,10 @@
 {
   "name": "nextjs-tutorial",
-<<<<<<< HEAD
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "@testing-library/jest-dom": "^5.11.6",
-    "@testing-library/react": "^11.2.2",
-    "@testing-library/user-event": "^12.2.2",
-    "isomorphic-unfetch": "^3.1.0",
-    "next": "^10.0.3",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1",
-    "react-scripts": "4.0.1",
-    "web-vitals": "^0.2.4"
-  },
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
-=======
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "next"
->>>>>>> 5874047a6610098accb7fae77af66fe84b5a5448
   },
   "repository": {
     "type": "git",

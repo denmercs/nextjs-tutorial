@@ -2,10 +2,8 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-<<<<<<< HEAD
-  "/about": "pages/about.js",
-  "/robots": "pages/robots.js"
-=======
-  "/": "pages/index.js"
->>>>>>> 5874047a6610098accb7fae77af66fe84b5a5448
+  "/": "pages/index.js",
+  "/next/dist/pages/_error": "pages/next/dist/pages/_error.js",
+  "/robots": "pages/robots.js",
+  "/about": "pages/about.js"
 }

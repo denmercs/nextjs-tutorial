@@ -1,5 +1,5 @@
 import Link from "next/link";
-import Image from "./image";
+import Image from "../components/image";
 
 const About = () => {
   return (
